@@ -1,0 +1,60 @@
+root@generic:/data/mycode # ./lastBBCARM 2 4 10 6                          
+Cooks [2], Cashiers [4], Customers [10]
+Begin run.
+customer [7] comes.
+customer [10] comes.
+Cashier [4] accepts an order.
+cashier [4] wait for burger
+Cashier [3] accepts an order.
+cashier [3] wait for burger
+customer [1] comes.
+customer [2] comes.
+customer [3] comes.
+customer [4] comes.
+customer [5] comes.
+customer [6] comes.
+Cashier [2] accepts an order.
+cashier [2] wait for burger
+Cashier [1] accepts an order.
+cashier [1] wait for burger
+customer [9] comes.
+Cook [2] make a burger.
+customer [8] comes.
+Cook [2] make a burger.
+Cook [2] make a burger.
+Cook [2] make a burger.
+Cook [2] make a burger.
+Cook [2] make a burger.
+Cook [2] make a burger.
+Cashier [4] takes a burger to a customer.
+Cashier [4] accepts an order.
+cashier [4] wait for burger
+Cashier [4] takes a burger to a customer.
+Cashier [4] accepts an order.
+cashier [4] wait for burger
+Cashier [4] takes a burger to a customer.
+Cashier [4] accepts an order.
+cashier [4] wait for burger
+Cashier [4] takes a burger to a customer.
+Cashier [4] accepts an order.
+cashier [4] wait for burger
+Cashier [4] takes a burger to a customer.
+Cashier [3] takes a burger to a customer.
+Cashier [2] takes a burger to a customer.
+Cashier [4] accepts an order.
+cashier [4] wait for burger
+Cashier [3] accepts an order.
+cashier [3] wait for burger
+Cook [2] make a burger.
+Cook [2] make a burger.
+Cook [2] make a burger.
+Cook [2] make a burger.
+Cook [2] make a burger.
+Cook [2] make a burger.
+Cook [2] make a burger.
+Cashier [4] takes a burger to a customer.
+Cashier [3] takes a burger to a customer.
+Cook [1] make a burger.
+Cook [1] make a burger.
+Cashier [1] takes a burger to a customer.
+root@generic:/data/mycode #         //这里说明正常退出了(顾客都走光了以后)
