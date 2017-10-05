@@ -1,5 +1,5 @@
 # CS356 Operating System Project
-Generate Verilog Code on MIPS architecture to write a simple pipelining CPU.
+Playing with linux kernel to solve several interesting tasks.
 
 ### Documentation
 
